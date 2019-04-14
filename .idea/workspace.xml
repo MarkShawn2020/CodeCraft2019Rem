@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a85c54a-08ff-4a3a-8190-8b77d3074c15" name="Default" comment="">
+    <list default="true" id="2a85c54a-08ff-4a3a-8190-8b77d3074c15" name="Default" comment="Update ReadMe.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -107,18 +108,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/data.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1216">
-              <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
-              <folding>
-                <element signature="e#47#65#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CodeCraft-2019.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -168,12 +157,22 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="396">
-                <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+              <first_editor relative-caret-position="57">
+                <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CodeCraft2019RemFlowControl.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/resource/CodeCraft2019RemFlowControl.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="CodeCraft_tar.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft_tar.sh">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -240,6 +239,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -312,7 +314,9 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -325,22 +329,6 @@
             <path>
               <item name="SpiderMenCome_V2.0" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpiderMenCome_V2.0" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpiderMenCome_V2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpiderMenCome_V2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeCraft-2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpiderMenCome_V2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpiderMenCome_V2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeCraft-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpiderMenCome_V2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpiderMenCome_V2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -511,6 +499,14 @@
       <option name="presentableId" value="Default" />
       <updated>1554163589826</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update ReadMe.md">
+      <created>1555241344677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555241344677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -524,16 +520,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32842106" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32947367" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.62" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" visible="true" weight="0.32947367" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" weight="0.32947367" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4978678" weight="0.12618296" />
       <window_info anchor="bottom" x="454" y="262" width="1078" height="723" id="Run" order="12" sideWeight="0.49733475" weight="0.2628812" />
       <window_info anchor="right" id="Mongo Explorer" order="4" sideWeight="0.49052632" weight="0.18923241" />
-      <window_info anchor="bottom" x="292" y="178" width="822" height="706" id="Terminal" order="9" weight="0.2968421" />
+      <window_info anchor="bottom" x="292" y="178" width="822" height="706" id="Terminal" order="9" sideWeight="0.4989339" weight="0.62" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8207237" visible="true" weight="0.15938166" />
       <window_info anchor="right" id="R Packages" order="5" weight="0.32995737" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
@@ -542,7 +537,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
       <window_info anchor="right" id="SciView" order="8" sideWeight="0.4936842" weight="0.24840085" />
       <window_info id="Structure" order="1" sideWeight="0.17927632" side_tool="true" weight="0.13006397" />
-      <window_info anchor="bottom" id="Favorites" order="13" side_tool="true" weight="0.32982087" />
+      <window_info anchor="bottom" id="Favorites" order="13" side_tool="true" weight="0.32947367" />
       <window_info anchor="bottom" id="Debug" order="14" sideWeight="0.49733475" weight="0.22923239" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" weight="0.5694737" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
@@ -561,6 +556,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update ReadMe.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update ReadMe.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -584,26 +583,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
-          <folding>
-            <element signature="e#47#61#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1729">
-          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
-          <folding>
-            <element signature="e#48#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019_judge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1387">
@@ -812,11 +791,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft_tar.sh">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/resource/CodeCraft2019RemFlowControl.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="396">
-            <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
           </first_editor>
           <second_editor />
         </state>

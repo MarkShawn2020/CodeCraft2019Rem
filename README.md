@@ -1,7 +1,7 @@
 # CodeCraft2019复赛南川版智能发车系统使用说明
 
 ## 流程控制
-
+![](CodeCraft-2019/resource/CodeCraft2019RemFlowControl.png)
 
 ## 两种模式
 - 正常模式，即使用自定义的流程与算法生成答案，启动路径CodeCraft-2019.py
