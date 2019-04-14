@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a85c54a-08ff-4a3a-8190-8b77d3074c15" name="Default" comment="" />
+    <list default="true" id="2a85c54a-08ff-4a3a-8190-8b77d3074c15" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +77,7 @@
       <file leaf-file-name="core.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/core.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="19">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <element signature="e#48#66#0" expanded="true" />
@@ -87,7 +89,7 @@
       <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-389">
+            <state relative-caret-position="19">
               <caret line="335" column="17" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
             </state>
           </provider>
@@ -96,7 +98,7 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="931">
+            <state relative-caret-position="912">
               <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
               <folding>
                 <element signature="e#71#102#0" expanded="true" />
@@ -108,7 +110,7 @@
       <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
+            <state relative-caret-position="1216">
               <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
               <folding>
                 <element signature="e#47#65#0" expanded="true" />
@@ -120,7 +122,7 @@
       <file leaf-file-name="CodeCraft-2019.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
+            <state relative-caret-position="622">
               <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="e#48#66#0" expanded="true" />
@@ -132,7 +134,7 @@
       <file leaf-file-name="car.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/car.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4118">
+            <state relative-caret-position="19">
               <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
             </state>
           </provider>
@@ -141,7 +143,7 @@
       <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1625">
+            <state relative-caret-position="2223">
               <caret line="126" column="51" selection-start-line="126" selection-start-column="51" selection-end-line="126" selection-end-column="51" />
               <folding>
                 <element signature="e#48#63#0" expanded="true" />
@@ -150,19 +152,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/ReadMe.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="228">
-                <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -170,6 +160,18 @@
               <folding>
                 <element signature="e#47#61#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="396">
+                <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -236,10 +238,12 @@
       <replace>c</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeCraft-2019/src/visualization.py" />
         <option value="$PROJECT_DIR$/CodeCraft-2019/others/test.py" />
         <option value="$PROJECT_DIR$/CodeCraft-2019/src/visualize_matplotlib.py" />
         <option value="$PROJECT_DIR$/CodeCraft-2019/src/verify_factors.py" />
@@ -290,6 +294,7 @@
         <option value="$PROJECT_DIR$/CodeCraft-2019/src/core.py" />
         <option value="$PROJECT_DIR$/CodeCraft-2019/src/ReadMe.md" />
         <option value="$PROJECT_DIR$/CodeCraft-2019/src/settings.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -307,11 +312,13 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,7 +346,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -518,16 +524,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32842106" />
-      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.2502629" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32947367" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49946696" visible="true" weight="0.32947367" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4978678" weight="0.12618296" />
       <window_info anchor="bottom" x="454" y="262" width="1078" height="723" id="Run" order="12" sideWeight="0.49733475" weight="0.2628812" />
       <window_info anchor="right" id="Mongo Explorer" order="4" sideWeight="0.49052632" weight="0.18923241" />
       <window_info anchor="bottom" x="292" y="178" width="822" height="706" id="Terminal" order="9" weight="0.2968421" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8207237" visible="true" weight="0.15938166" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8207237" visible="true" weight="0.15938166" />
       <window_info anchor="right" id="R Packages" order="5" weight="0.32995737" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="6" weight="0.32995737" />
@@ -539,13 +546,13 @@
       <window_info anchor="bottom" id="Debug" order="14" sideWeight="0.49733475" weight="0.22923239" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" weight="0.5694737" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.3736842" />
+      <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="9" sideWeight="0.50631577" side_tool="true" weight="0.45255864" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3736842" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
     </layout>
   </component>
@@ -577,6 +584,16 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="e#47#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1729">
@@ -598,9 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2147">
           <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
-          <folding>
-            <element signature="e#47#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -608,11 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-          <folding>
-            <element signature="e#1966#1981#0" />
-            <element signature="e#2605#2620#0" />
-            <element signature="e#3082#3097#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -675,9 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="138" selection-start-line="138" selection-end-line="138" />
-          <folding>
-            <element signature="e#47#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -685,11 +691,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="563">
           <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
-          <folding>
-            <element signature="e#1966#1981#0" />
-            <element signature="e#2605#2620#0" />
-            <element signature="e#3082#3097#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,50 +727,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/core.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#48#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-          <folding>
-            <element signature="e#48#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-389">
-          <caret line="335" column="17" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/car.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4118">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/exam_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/exam_analysis.py" />
     <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
+        <state relative-caret-position="1216">
           <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
           <folding>
             <element signature="e#47#65#0" expanded="true" />
@@ -779,7 +740,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="931">
+        <state relative-caret-position="912">
           <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
           <folding>
             <element signature="e#71#102#0" expanded="true" />
@@ -789,19 +750,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1625">
+        <state relative-caret-position="2223">
           <caret line="126" column="51" selection-start-line="126" selection-start-column="51" selection-end-line="126" selection-end-column="51" />
           <folding>
             <element signature="e#48#63#0" expanded="true" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/resourses/CodeCraft2019复赛智能发车系统.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/resourses/CodeCraft2019RemFlowControl.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/ReadMe.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -813,6 +768,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="622">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#48#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -820,6 +785,40 @@
           <folding>
             <element signature="e#47#61#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="335" column="17" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#48#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
