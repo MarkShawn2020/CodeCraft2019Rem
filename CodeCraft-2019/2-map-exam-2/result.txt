@@ -1,0 +1,15 @@
+
+====================
+{'MAX_COVERAGE': 0.14, 'MAX_TO_START': 200, 'K_PRIOR': 1.5, 'K_NON_PRIOR': 1.5, 'REFRESH_FREQUENCY': 3, 'M1': 10, 'M2': 10, 'MapName': '2-map-exam-2', 'TimeUsed': 521.9070224761963}
+{'T_Prior': 634, 'T_Total': 1682, 'T_Final': 2497, 'S_Prior': 2840975, 'S_Total': 51567742, 'S_Final': 67374518, 'Factor_A': 1.285241, 'Factor_B': 5.5638559999999995}
+===== Succeeded!!! ======
+
+====================
+{'MAX_COVERAGE': 0.13, 'MAX_TO_START': 200, 'K_PRIOR': 1.5, 'K_NON_PRIOR': 1.5, 'REFRESH_FREQUENCY': 5, 'M1': 10, 'M2': 10, 'MapName': '2-map-exam-2', 'TimeUsed': 29.194998502731323}
+{'T_Prior': 123, 'T_Total': 124, 'T_Final': 282, 'S_Prior': 59788, 'S_Total': 271302, 'S_Final': 603954, 'Factor_A': 1.285241, 'Factor_B': 5.5638559999999995}
+=====  FAILED  !!! ======
+
+====================
+{'MAX_COVERAGE': 0.12, 'MAX_TO_START': 200, 'K_PRIOR': 1.5, 'K_NON_PRIOR': 1.5, 'REFRESH_FREQUENCY': 5, 'M1': 10, 'M2': 10, 'MapName': '2-map-exam-2', 'TimeUsed': 416.59899830818176}
+{'T_Prior': 668, 'T_Total': 1928, 'T_Final': 2787, 'S_Prior': 3217807, 'S_Total': 59345280, 'S_Final': 77248695, 'Factor_A': 1.285241, 'Factor_B': 5.5638559999999995}
+===== Succeeded!!! ======

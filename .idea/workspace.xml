@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2a85c54a-08ff-4a3a-8190-8b77d3074c15" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CodeCraftRemX1_0$visualize_matplotlib.coverage" NAME="visualize_matplotlib Coverage Results" MODIFIED="1554531747303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX1_0$GlobalControl.coverage" NAME="GlobalControl Coverage Results" MODIFIED="1554559822992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX3_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1554959890268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV6_0$test.coverage" NAME="test Coverage Results" MODIFIED="1554319095509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX3_0$CodeCraft_2019.coverage" NAME="CodeCraft-2019 Coverage Results" MODIFIED="1554784525268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src2" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX1_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1554560423633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV4_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1554207436405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX7_0$CodeCraft_2019_judge.coverage" NAME="CodeCraft-2019_judge Coverage Results" MODIFIED="1555086152158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV4_0$CodeCraft_2019_2.coverage" NAME="CodeCraft-2019_2 Coverage Results" MODIFIED="1554187407393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX4_0$core.coverage" NAME="core Coverage Results" MODIFIED="1555004025351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX3_0$run.coverage" NAME="run Coverage Results" MODIFIED="1554807587508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src3" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX4_0$CodeCraft_2019_judge.coverage" NAME="CodeCraft-2019-judge Coverage Results" MODIFIED="1555026227199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV4_0$test.coverage" NAME="test Coverage Results" MODIFIED="1554182406648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX1_0$JudgeMent.coverage" NAME="JudgeMent Coverage Results" MODIFIED="1554709805700" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX2_0$CodeCraft_2019_2.coverage" NAME="CodeCraft-2019_2 Coverage Results" MODIFIED="1554781918360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX5_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1555055022948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX2_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1554741095769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX5_0$CodeCraft_2019_analysis.coverage" NAME="CodeCraft-2019-analysis Coverage Results" MODIFIED="1555026892388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX1_0$visualize_map.coverage" NAME="visualize_map Coverage Results" MODIFIED="1554522458328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX2_0$JudgeMent.coverage" NAME="JudgeMent Coverage Results" MODIFIED="1554722705301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/SpiderMenCome_V1_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1555143522725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV6_0$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1554460999314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX3_0$core_judge.coverage" NAME="core_judge Coverage Results" MODIFIED="1554960992623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX3_0$CodeCraft_2019_judge.coverage" NAME="CodeCraft-2019-judge Coverage Results" MODIFIED="1554962061908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV4_0$CodeCraft_2019.coverage" NAME="CodeCraft-2019 Coverage Results" MODIFIED="1554200081594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV6_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1554495704413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV5_0$objects.coverage" NAME="objects Coverage Results" MODIFIED="1554260622971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX1_0$verify_factors.coverage" NAME="verify_factors Coverage Results" MODIFIED="1554548085401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX3_0$CodeCraft_2019__2_.coverage" NAME="CodeCraft-2019 (2) Coverage Results" MODIFIED="1554875421499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src3" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV6_0$statistics.coverage" NAME="statistics Coverage Results" MODIFIED="1554475925740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX4_0$core_judge.coverage" NAME="core_judge Coverage Results" MODIFIED="1555004075611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX1_0$test.coverage" NAME="test Coverage Results" MODIFIED="1554530365410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/others" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX4_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1555025850149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX3_0$judge.coverage" NAME="judge Coverage Results" MODIFIED="1554961092992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX7_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1555086948242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/SpiderMenCome_V1_0$exam_analysis.coverage" NAME="exam_analysis Coverage Results" MODIFIED="1555138228871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV6_0$JudgeMent.coverage" NAME="JudgeMent Coverage Results" MODIFIED="1554474974684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX5_0$CodeCraft_2019_judge.coverage" NAME="CodeCraft-2019_judge Coverage Results" MODIFIED="1555058899926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX2_0$utils.coverage" NAME="utils Coverage Results" MODIFIED="1554774234100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV5_0$CodeCraft_2019__1_.coverage" NAME="CodeCraft-2019 (1) Coverage Results" MODIFIED="1554297407421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemV5_0$initialize.coverage" NAME="initialize Coverage Results" MODIFIED="1554270255240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+    <SUITE FILE_PATH="coverage/CodeCraftRemX3_0$settings.coverage" NAME="settings Coverage Results" MODIFIED="1554887120702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CodeCraft-2019/src" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="CodeCraftRemV6.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="core.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/core.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#48#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-389">
+              <caret line="335" column="17" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+              <folding>
+                <element signature="e#71#102#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+              <folding>
+                <element signature="e#47#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CodeCraft-2019.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="e#48#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="car.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/car.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4118">
+              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1625">
+              <caret line="126" column="51" selection-start-line="126" selection-start-column="51" selection-end-line="126" selection-end-column="51" />
+              <folding>
+                <element signature="e#48#63#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadMe.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/ReadMe.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="228">
+                <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+              <folding>
+                <element signature="e#47#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>-=</find>
+      <find>life_span</find>
+      <find>second</find>
+      <find>delay</find>
+      <find>51321</find>
+      <find>37130</find>
+      <find>Data</find>
+      <find>road_use_arr</find>
+      <find>CARS</find>
+      <find>'Priority':</find>
+      <find>real_time</find>
+      <find>39681</find>
+      <find>66916</find>
+      <find>91237</find>
+      <find>46395</find>
+      <find>49659</find>
+      <find>74337</find>
+      <find>(0, 18, 5340)</find>
+      <find>84726</find>
+      <find>55967</find>
+      <find>6703</find>
+      <find>21499</find>
+      <find>39962</find>
+      <find>21449</find>
+      <find>6253</find>
+      <find>5911</find>
+      <find>[^\r\n]+\.+:</find>
+      <find>self</find>
+      <find>raise</find>
+      <find>empty</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>(G.$1)</replace>
+      <replace>G.$1</replace>
+      <replace>following_car</replace>
+      <replace>()</replace>
+      <replace>.v6_move</replace>
+      <replace />
+      <replace>{}\t&quot;</replace>
+      <replace>队列</replace>
+      <replace>start_cars_in_garage</replace>
+      <replace>C.</replace>
+      <replace>Data.</replace>
+      <replace>car.</replace>
+      <replace>self</replace>
+      <replace>c.</replace>
+      <replace>self.</replace>
+      <replace>CROSSES</replace>
+      <replace>c</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/visualization.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/others/test.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/visualize_matplotlib.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/verify_factors.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/JudgeMent.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/statistics.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019_2.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/GlobalControl.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src2/GlobalControl.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src2/CodeCraft-2019.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src2/utils.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src2/road.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src2/car.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src2/initialize.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/initialize.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/default_settings.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/monitor.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/run.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/data.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/utils.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/CodeCraft-2019.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/displot_car_departure_time.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/settings.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/car.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/road.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src3/core.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/displot_car_departure_time.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/car_answer.txt" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/judge.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/2-map-training-1/my_answer.txt" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019-analysis.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/road.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019-judge.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/Solution.md" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019_analysis.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/2-training-training-2-answer/result.txt" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/test.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/Version Control.md" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/car.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019_judge.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/core_judge.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/VersionControl.md" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/2-map-training-1/result.txt" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/utils.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/exam_analysis.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/data.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/base.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/core.py" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/ReadMe.md" />
+        <option value="$PROJECT_DIR$/CodeCraft-2019/src/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpiderMenCome_V2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpiderMenCome_V2.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpiderMenCome_V2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpiderMenCome_V2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeCraft-2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpiderMenCome_V2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpiderMenCome_V2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeCraft-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpiderMenCome_V2.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpiderMenCome_V2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/MyProjects/PycharmProjects/CodeCraft2019/CodeCraftRemV5.0/CodeCraft-2019/src/initialize.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\SpiderMenCome_V2.0\CodeCraft-2019\resourses" />
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\SpiderMenCome_V1.0\CodeCraft-2019" />
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\CodeCraftRemX7.0\CodeCraft-2019" />
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\CodeCraftRemX7.0\CodeCraft-2019\src" />
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\CodeCraftRemX5.0\CodeCraft-2019\2-map-training-1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\SpiderMenCome_V1.0\CodeCraft-2019" />
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\CodeCraftRemX2.0\CodeCraft-2019\2-map-training-1" />
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\CodeCraftRemX1.0\CodeCraft-2019\2-training-training-1-answer" />
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\CodeCraftRemV6.0\CodeCraft-2019\others" />
+      <recent name="D:\MyProjects\PycharmProjects\CodeCraft2019\CodeCraftRemV6.0\CodeCraft-2019\2-training-training-1-answer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.CodeCraft-2019 (1)">
+    <configuration name="CodeCraft-2019 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpiderMenCome_V1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeCraft-2019/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="CodeCraft-2019-analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpiderMenCome_V1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeCraft-2019/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\MyProjects\PycharmProjects\CodeCraft2019\CodeCraftRemX5.0\CodeCraft-2019\src\CodeCraft-2019_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="CodeCraft-2019-judge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpiderMenCome_V1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeCraft-2019/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\MyProjects\PycharmProjects\CodeCraft2019\CodeCraftRemX5.0\CodeCraft-2019\src\CodeCraft-2019_judge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="CodeCraft-2019_judge" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpiderMenCome_V1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeCraft-2019/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019_judge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="exam_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SpiderMenCome_V1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeCraft-2019/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeCraft-2019/src/exam_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.CodeCraft-2019 (1)" />
+      <item itemvalue="Python.CodeCraft-2019-judge" />
+      <item itemvalue="Python.CodeCraft-2019-analysis" />
+      <item itemvalue="Python.CodeCraft-2019_judge" />
+      <item itemvalue="Python.exam_analysis" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.CodeCraft-2019 (1)" />
+        <item itemvalue="Python.exam_analysis" />
+        <item itemvalue="Python.CodeCraft-2019_judge" />
+        <item itemvalue="Python.CodeCraft-2019-judge" />
+        <item itemvalue="Python.CodeCraft-2019-analysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a85c54a-08ff-4a3a-8190-8b77d3074c15" name="Default" comment="" />
+      <created>1554163589826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554163589826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.32842106" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5026652" side_tool="true" visible="true" weight="0.2502629" />
+      <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4978678" weight="0.12618296" />
+      <window_info anchor="bottom" x="454" y="262" width="1078" height="723" id="Run" order="12" sideWeight="0.49733475" weight="0.2628812" />
+      <window_info anchor="right" id="Mongo Explorer" order="4" sideWeight="0.49052632" weight="0.18923241" />
+      <window_info anchor="bottom" x="292" y="178" width="822" height="706" id="Terminal" order="9" weight="0.2968421" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8207237" visible="true" weight="0.15938166" />
+      <window_info anchor="right" id="R Packages" order="5" weight="0.32995737" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="6" weight="0.32995737" />
+      <window_info anchor="bottom" id="Tail" order="0" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
+      <window_info anchor="right" id="SciView" order="8" sideWeight="0.4936842" weight="0.24840085" />
+      <window_info id="Structure" order="1" sideWeight="0.17927632" side_tool="true" weight="0.13006397" />
+      <window_info anchor="bottom" id="Favorites" order="13" side_tool="true" weight="0.32982087" />
+      <window_info anchor="bottom" id="Debug" order="14" sideWeight="0.49733475" weight="0.22923239" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" weight="0.5694737" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3736842" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="9" sideWeight="0.50631577" side_tool="true" weight="0.45255864" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCraft-2019/old/CodeCraft-2019_old.py</url>
+          <line>856</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCraft-2019/old/CodeCraft-2019_old.py</url>
+          <line>855</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeCraft-2019/src/JudgeMent.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="151" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+          <folding>
+            <element signature="e#48#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019_judge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/road.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2147">
+          <caret line="115" column="8" selection-start-line="115" selection-start-column="8" selection-end-line="115" selection-end-column="8" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/core_judge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
+          <folding>
+            <element signature="e#1966#1981#0" />
+            <element signature="e#2605#2620#0" />
+            <element signature="e#3082#3097#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/CodeCraft-2019.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/CodeCraft-2019_0.07_2.log" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-training-training-1-answer/my_answer.txt" />
+    <entry file="file://$PROJECT_DIR$/logs/CodeCraft-2019-mine.log" />
+    <entry file="file://$PROJECT_DIR$/logs/CodeCraft-2019_judge.log" />
+    <entry file="file://$PROJECT_DIR$/logs/CodeCraft-2019_mine.log" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/arrival_core_judge.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-training-training-1-answer/road.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-training-training-1-answer/presetAnswer.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/log_car_judge.log" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/log_car_core.log" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-313451744/scipy/sparse/csgraph/_shortest_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-678">
+          <caret line="347" column="126" selection-start-line="347" selection-start-column="119" selection-end-line="347" selection-end-column="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/CodeCraft-2019-error.log" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-map-training-2/presetAnswer.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/Solution.md" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019_analysis.py" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-training-training-2-answer/road.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-map-training-1/answer.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-map-training-1/cross.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/Version Control.md" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-map-training-4/road.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-map-training-3/result.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-training-training-1-answer/car.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-training-training-1-answer/answer.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-training-training-2-answer/result.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/VersionControl.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="532">
+            <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-map-training-1/result.txt" />
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-map-exam-1/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/road.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/core_judge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="32" column="63" selection-start-line="32" selection-start-column="63" selection-end-line="32" selection-end-column="63" />
+          <folding>
+            <element signature="e#1966#1981#0" />
+            <element signature="e#2605#2620#0" />
+            <element signature="e#3082#3097#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-map-exam-2/car.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1266258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/cross.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019_judge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/2-map-exam-2/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/CodeCraft-2019.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="5130">
+          <caret line="270" selection-start-line="270" selection-end-line="270" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#48#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/CodeCraft-2019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#48#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="335" column="17" selection-start-line="335" selection-start-column="17" selection-end-line="335" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/car.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4118">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/exam_analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="65" column="21" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+          <folding>
+            <element signature="e#47#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="e#71#102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1625">
+          <caret line="126" column="51" selection-start-line="126" selection-start-column="51" selection-end-line="126" selection-end-column="51" />
+          <folding>
+            <element signature="e#48#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/resourses/CodeCraft2019复赛智能发车系统.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/resourses/CodeCraft2019RemFlowControl.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/ReadMe.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="228">
+            <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeCraft-2019/src/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="e#47#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
